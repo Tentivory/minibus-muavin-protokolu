@@ -1,0 +1,2 @@
+# bagimlilik yok. muavin de bagimsizdir.
+# python 3.8+
